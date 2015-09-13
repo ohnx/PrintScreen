@@ -1,0 +1,6 @@
+c:\users\mason\documents\visual studio 2015\Projects\PS\bin\Debug\PS.exe.config
+c:\users\mason\documents\visual studio 2015\Projects\PS\bin\Debug\PS.exe
+c:\users\mason\documents\visual studio 2015\Projects\PS\bin\Debug\PS.pdb
+c:\users\mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.csprojResolveAssemblyReference.cache
+c:\users\mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.exe
+c:\users\mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.pdb
