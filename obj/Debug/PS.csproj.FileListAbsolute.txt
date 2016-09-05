@@ -4,3 +4,5 @@ c:\users\mason\documents\visual studio 2015\Projects\PS\bin\Debug\PS.pdb
 c:\users\mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.csprojResolveAssemblyReference.cache
 c:\users\mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.exe
 c:\users\mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.pdb
+C:\Users\Mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.Post.resources
+C:\Users\Mason\documents\visual studio 2015\Projects\PS\obj\Debug\PS.csproj.GenerateResource.Cache
